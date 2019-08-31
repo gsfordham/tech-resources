@@ -1,0 +1,204 @@
+:map: ***LEGEND*** :map: 
+• (:books:) -- Resource **is a book** (physical)
+• (:zap: :books:) -- Resource **is a book** (e-book)
+• (:zap: / :books:) -- Resource **is a book** (physical ***OR*** e-book)
+• (:desktop:) -- Resource **is a website or other Discord**
+
+**------------------------------------------------------**
+:books: :books: ***THE ARCHIVE*** :books: :books:
+**------------------------------------------------------**
+
+:computer: ***PROGRAMMING*** :computer:
+**__Assembly__**
+• (:zap: / :books:) Assembly Language Step by Step (32-bit ASM)
+• (:zap: / :books:) Introduction to 64 Bit Intel Assembly Assembly Language Programming for Linux; by Ray Sayfarth
+• (:zap: / :books:) Programming from the Ground Up (http://savannah.nongnu.org/projects/pgubook/)
+
+**__C__**
+• (:zap: / :books:) The C Programming Language (a.k.a. K & R)
+• (:books:) C Programming: A Modern Approach
+• (:zap: / :books:) C Primer Plus
+• (:zap: / :books:) C For Dummies, All-in-One Desk Reference (It's actually really good, beleive it or not)
+- https://smile.amazon.com/All-One-Desk-Reference-Dummies/dp/0764570692/ref=sr_1_1?ie=UTF8&qid=1506799191
+
+**__C++__**
+• (:desktop:) <http://www.cplusplus.com/>
+• (:zap: / :books:) The C++ Programming Language
+• (:zap: / :books:) C++ For Dummies, All-in-One Desk Reference
+- https://smile.amazon.com/gp/product/B00M552TYS/ref=oh_aui_search_detailpage?ie=UTF8&psc=1
+• (:zap: / :books:) Big C++
+• (:zap: / :books:) Problem Solving, Abstraction and Design Using C++
+
+**__C#__**
+• (:desktop:) <https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/>
+• (:desktop:) <https://docs.microsoft.com/en-us/dotnet/csharp/csharp>
+• (:desktop:) <https://www.microsoft.com/net/core>
+• (:desktop:) <http://www.omnisharp.net/>
+• (:zap: :books:) C# Programming Yellow Book (<http://www.robmiles.com/c-yellow-book/>)
+
+**-**
+**__D__**
+• (:desktop:) <https://www.dlang.org/>
+• (:zap: / :books:) The D Programming Language
+• (:zap: / :books:) Programming in D: Tutorial and Reference
+• (:zap: / :books:) D Cookbook
+
+**__Golang__**
+• (:desktop:) <http://golang.org/>
+• (:zap: / :books:) The Go Programming Language
+
+**__Haskell__**
+• (:desktop:) <https://www.haskell.org/>
+• (:zap: / :books:) Programming in Haskell
+• (:desktop:) The Wikibook - <https://en.wikibooks.org/wiki/Haskell>
+• (:zap: / :books:) Real World Haskell
+
+**__Java__**
+• (:desktop:) <https://docs.oracle.com/javase/>
+• (:desktop:) <https://docs.oracle.com/javase/tutorial/>
+• (:zap: / :books:) Head First Java: A Brain-Friendly Guide
+• (:zap: / :books:) Java: A Beginner's Guide
+• (:zap: / :books:) Java All-in-One For Dummies
+- ((Check ***ALGORITHMS*** for 2 additional works that fall into this category as well - but they are primarily designed to teach algorithm development))
+
+**__Lisp - Common__**
+• (:desktop:) <https://www.common-lisp.net/>
+• (:desktop:) <https://www.quicklisp.org/beta/>
+• (:desktop:) <http://quickdocs.org/>
+• (:books:) Practical Common Lisp
+• (:desktop:) https://www.tutorialspoint.com/execute_lisp_online.php
+
+**__Lisp - Scheme__**
+• (:books:) SICP
+• (:zap: :books:) (PDF version: https://cdn.discordapp.com/attachments/286245626620936193/335383786068115456/SICP.pdf)
+• (:desktop:)https://schemers.org/
+
+**__OCaml__**
+• (:desktop:) <https://realworldocaml.org/>
+• (:desktop:) <https://ocaml.org/learn/tutorials/>
+
+**__Python__**
+• (:desktop:) <https://www.python.org/>
+• (:desktop:) <https://www.python.org/doc/>
+• (:zap: / :books:) Automate the Boring Stuff with Python
+• (:zap: / :books:) Learning Python: Powerful Object-Oriented Programming
+• (:zap: / :books:) Python Pocket Reference
+• (:zap: / :books:) Pro Python; by Marty Alchin
+
+**__Ruby__**
+• (:desktop:) <https://i-love-ruby.gitlab.io/>
+
+**__Rust__**
+• (:desktop:) <https://www.rust-lang.org/>
+• (:desktop:) The Rustonomicon - <https://doc.rust-lang.org/nomicon/>
+• (:desktop:) <https://github.com/ctjhoa/rust-learning/blob/master/README.md#applications--libraries--tools>
+• (:zap: / :books:) The Rust Programming Language
+• (:zap: / :books:) Rust Programming By Example
+
+**-**
+**__SQL__**
+• (:zap: / :books:) SQL All-in-One For Dummies
+• (:zap: / :books:) PostgreSQL Up and Running; by O'Reilly Press (Very good book, actually; explains a bunch of cool features other SQLs don't even implement)
+
+**__Visual BASIC__** *(IDK why TF you'd wanna program in this, but I'm not gonna stop you)*
+• (:zap: / :books:) Visual BASIC 2012 (6th Edition) (Book I had for an OOP Logic class. VERY long, with a LOT of focus on also *using* Visual Studio, but it will teach you what you gotta know)
+
+**__Web Dev__**
+• (:desktop:) <https://www.w3schools.com/>
+• (:zap: / :books:) Learning PHP, MySQL & JavaScript: With jQuery, CSS and HTML5 (4th Edition); by O'Reilly Press
+
+**---------**
+:tools: ***ALGORITHMS*** :desktop: 
+• (:zap: / :books:) Introduction to Algorithms; by Cormen
+• (:zap: / :books:) Data Structures and Algorithms in Java (Second Edition); by Robert Lafore (I had this for a class. It wasn't bad, actually)
+• (:books:) Data Structures and Algorithms in Java; by Peter Drake (Different book, also read it. Again, not bad)
+- ((The above 2 can also be used to learn Java, itself. I knew nothing about Java before reading them))
+
+**---------**
+:tools: ***GAME DEVELOPMENT*** :video_game:
+• (:zap: / :books:) The Black Art of Multiplatform Game Programming; by Jazon Yamamoto
+• (:zap: / :books:) The OpenGL SuperBible
+
+**---------**
+:tools: ***OS DEVELOPMENT*** :desktop:
+• (:zap: / :books:) Modern Operating Systems; by Tanenbaum
+• (:zap: / :books:) Computer Organization and Design (Another book from a class I had. Dry, long, but a lot of useful stuff, too. Also does brief stuff about Verilog)
+
+**---------**
+:tools: ***PC BUILDING*** :desktop:
+• (:desktop:) <https://pcpartpicker.com/>
+• (:desktop:) <https://wiki.installgentoo.com/index.php/Build_a_PC>
+
+**---------**
+:desktop: ***LINUX/UNIX*** :nerd:
+• (:desktop:) <https://wiki.installgentoo.com/index.php/GNU/Linux>
+• (:zap: / :books:) A Practical Guide to Linux Commands, Editors, and Shell Programming (Had this for a class; bit dry and long, but it has a lot of useful stuff)
+• (:zap: / :books:) UNIX in a Nutshell; by O'Reilly Press
+• (:zap: / :books:) Learning the UNIX Operating System; by O'Reilly Press
+
+**---------**
+:books: :information_source: ***EXTRA/OTHER*** :information_source: :books:
+• (:desktop:) <https://wiki.installgentoo.com/index.php?title=Main_Page>
+• (:desktop:) <https://g.sicp.me/books/> (Gentoomen Library -- Several things)
+• (:zap: :books:) http://goalkicker.com/ (Compiled list of stackoverflow answers)
+
+**---------**
+:sleuth_or_spy::skin-tone-1: ***HACKING*** :computer: :spider_web:
+• (:zap: / :books:) Hacking: The Art of Exploitation (2nd Edition); by Jon Erickson
+
+**Learning (Hacking):**
+• (:desktop:) http://www.securitytube.net/
+• (:desktop:) http://cybrary.it//
+• (:desktop:) http://null-byte.wonderhowto.com/how-to/
+• (:desktop:) http://n0where.net/
+• (:desktop:) http://www.offensive-security.com/metasploit-unleashed
+• (:desktop:) http://www.exploit-db.com/
+• (:desktop:) https://siph0n.net/
+• (:desktop:) http://www.cvedetails.com/
+• (:desktop:) http://resources.infosecinstitute.com/
+• (:desktop:) http://www.windowsecurity.com/articles-tutorials/
+• (:desktop:) http://www.securitysift.com/
+• (:desktop:) http://www.sans.org/reading-room/
+• (:desktop:) http://packetstormsecurity.com/files/
+• (:desktop:) https://www.corelan.be/index.php/articles/
+• (:desktop:) http://routerpwn.com/
+• (:desktop:) http://opensecuritytraining.info/Training.html
+• (:desktop:) https://www.blackhat.com/html/archives.html
+• (:desktop:) http://magazine.hitb.org/hitb-magazine.html
+
+**News/CVE releases (Hacking):**
+• (:desktop:) https://threatpost.com/
+• (:desktop:) http://www.deepdotweb.com/
+• (:desktop:) https://packetstormsecurity.com/
+• (:desktop:) http://www.cvedetails.com/
+
+**Wargames (Hacking):**
+• (:desktop:) http://overthewire.org/wargames/
+• (:desktop:) https://www.pentesterlab.com/
+• (:desktop:) http://www.itsecgames.com/
+• (:desktop:) https://exploit-exercises.com/
+• (:desktop:) http://www.enigmagroup.org/
+• (:desktop:) http://smashthestack.org/
+• (:desktop:) http://3564020356.org/
+• (:desktop:) http://www.hackthissite.org/
+• (:desktop:) http://www.hackertest.net/
+• (:desktop:) http://0x0539.net/
+
+**Distros (Hacking):**
+• (:desktop:) https://www.kali.org/
+• (:desktop:) http://sourceforge.net/projects/metasploitable/
+• (:desktop:) https://tails.boum.org/
+• (:desktop:) http://ophcrack.sourceforge.net/
+• (:desktop:) https://n0where.net/blackarch-linux/
+• (:desktop:) http://seanux.net/index/en
+• (:desktop:) http://sourceforge.net/p/attackvector/wiki/Home/
+
+Also available at: http://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book.html
+Directly from the publisher (MIT), so have your pick!
+
+---
+Just uh... just gonna leave this here:
+<https://www.amazon.co.jp/%E3%81%8D%E3%81%A4%E3%81%AD%E3%81%95%E3%82%93%E3%81%A7%E3%82%82%E3%82%8F%E3%81%8B%E3%82%8BLLVM-%E3%82%B3%E3%83%B3%E3%83%91%E3%82%A4%E3%83%A9%E3%82%92%E8%87%AA%E4%BD%9C%E3%81%99%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AE%E3%82%AC%E3%82%A4%E3%83%89%E3%83%96%E3%83%83%E3%82%AF-%E6%9F%8F%E6%9C%A8-%E9%A4%85%E5%AD%90/dp/4844334158/>
+
+General list of many different topics
+https://github.com/sindresorhus/awesome
